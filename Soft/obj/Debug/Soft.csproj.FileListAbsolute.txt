@@ -1,0 +1,12 @@
+E:\C#\Soft\Soft\bin\Debug\Soft.exe.config
+E:\C#\Soft\Soft\bin\Debug\Soft.exe
+E:\C#\Soft\Soft\bin\Debug\Soft.pdb
+E:\C#\Soft\Soft\bin\Debug\Oracle.DataAccess.dll
+E:\C#\Soft\Soft\obj\Debug\Soft.csproj.AssemblyReference.cache
+E:\C#\Soft\Soft\obj\Debug\Soft.Form1.resources
+E:\C#\Soft\Soft\obj\Debug\Soft.Properties.Resources.resources
+E:\C#\Soft\Soft\obj\Debug\Soft.csproj.GenerateResource.cache
+E:\C#\Soft\Soft\obj\Debug\Soft.csproj.CoreCompileInputs.cache
+E:\C#\Soft\Soft\obj\Debug\Soft.csproj.Up2Date
+E:\C#\Soft\Soft\obj\Debug\Soft.exe
+E:\C#\Soft\Soft\obj\Debug\Soft.pdb
