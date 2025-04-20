@@ -10,3 +10,17 @@ E:\C#\Soft\Soft\obj\Debug\Soft.csproj.CoreCompileInputs.cache
 E:\C#\Soft\Soft\obj\Debug\Soft.csproj.Up2Date
 E:\C#\Soft\Soft\obj\Debug\Soft.exe
 E:\C#\Soft\Soft\obj\Debug\Soft.pdb
+D:\Source Code\SW\Soft\bin\Debug\Soft.exe.config
+D:\Source Code\SW\Soft\bin\Debug\Soft.exe
+D:\Source Code\SW\Soft\bin\Debug\Soft.pdb
+D:\Source Code\SW\Soft\obj\Debug\Soft.csproj.AssemblyReference.cache
+D:\Source Code\SW\Soft\obj\Debug\Soft.Form1.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.Properties.Resources.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.csproj.GenerateResource.cache
+D:\Source Code\SW\Soft\obj\Debug\Soft.csproj.CoreCompileInputs.cache
+D:\Source Code\SW\Soft\obj\Debug\Soft.exe
+D:\Source Code\SW\Soft\obj\Debug\Soft.pdb
+D:\Source Code\SW\Soft\bin\Debug\Guna.UI2.dll
+D:\Source Code\SW\Soft\obj\Debug\Soft.Instructor.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.csproj.Up2Date
+D:\Source Code\SW\Soft\obj\Debug\Soft.InstructorUserControls.UC_TakeAttendance.resources
