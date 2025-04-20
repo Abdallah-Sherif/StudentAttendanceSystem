@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\instructorusercontrols\\uc_takeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|e:\\c#\\studentattendancesystem\\studentattendancesystem\\soft\\instructorusercontrols\\uc_takeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\soft\\instructorusercontrols\\uc_takeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\instructorusercontrols\\uc_takeattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|e:\\c#\\studentattendancesystem\\studentattendancesystem\\soft\\instructorusercontrols\\getclassreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\instructorusercontrols\\getclassreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|e:\\c#\\studentattendancesystem\\studentattendancesystem\\soft\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\soft\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|e:\\c#\\studentattendancesystem\\studentattendancesystem\\soft\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\soft\\instructorusercontrols\\getclassreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\instructorusercontrols\\getclassreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\soft\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|e:\\c#\\studentattendancesystem\\studentattendancesystem\\soft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\soft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C5C6FA8-49B5-425E-8EA4-DF95C3B01011}|Soft\\Soft.csproj|solutionrelative:soft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,20 +42,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Instructor.cs",
               "DocumentMoniker": "E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\Soft\\Instructor.cs",
               "RelativeDocumentMoniker": "Soft\\Instructor.cs",
               "ToolTip": "E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\Soft\\Instructor.cs",
               "RelativeToolTip": "Soft\\Instructor.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswCUAAAAJAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAA7wCUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T18:44:53.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GetClassReport.cs [Design]",
               "DocumentMoniker": "E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\Soft\\InstructorUserControls\\GetClassReport.cs",
               "RelativeDocumentMoniker": "Soft\\InstructorUserControls\\GetClassReport.cs",
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "Soft\\InstructorUserControls\\UC_TakeAttendance.cs",
               "ToolTip": "E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\Soft\\InstructorUserControls\\UC_TakeAttendance.cs",
               "RelativeToolTip": "Soft\\InstructorUserControls\\UC_TakeAttendance.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAYwGsAAAAuAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwD4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T18:30:40.387Z",
               "EditorCaption": ""
@@ -112,8 +112,7 @@
               "RelativeToolTip": "Soft\\Form1.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:08:24.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T20:08:24.956Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "ToolTip": "E:\\C#\\StudentAttendanceSystem\\StudentAttendanceSystem\\Soft\\Form1.cs [Design]",
               "RelativeToolTip": "Soft\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:08:19.874Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-21T20:08:19.874Z"
             }
           ]
         }

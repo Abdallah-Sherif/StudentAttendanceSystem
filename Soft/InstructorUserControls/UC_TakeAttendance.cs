@@ -57,6 +57,19 @@ namespace Soft.InstructorUserControls
                 currCourseID = dr[0].ToString();
             }
             dr.Close();
+
+            comboBox2.Items.Clear();
+            OracleCommand cmd2 = new OracleCommand();
+            cmd2.Connection = conn;
+            cmd2.CommandText = "SELECT username FROM students WHERE ID IN (SELECT STUDENTID FROM StudentCourses WHERE COURSEID = :id)";
+            cmd2.Parameters.Add("id", currCourseID);
+            cmd2.CommandType = CommandType.Text;
+            OracleDataReader dr2 = cmd2.ExecuteReader();
+            while (dr2.Read())
+            {
+                comboBox2.Items.Add(dr2[0].ToString());
+            }
+            dr2.Close();
         }
 
         private void UC_TakeAttendance_Load(object sender, EventArgs e)
@@ -73,17 +86,6 @@ namespace Soft.InstructorUserControls
                 comboBox1.Items.Add(dr[0].ToString());
             }
             dr.Close();
-
-            OracleCommand cmd2 = new OracleCommand();
-            cmd2.Connection = conn;
-            cmd2.CommandText = "select username from students";
-            cmd2.CommandType = CommandType.Text;
-            OracleDataReader dr2 = cmd2.ExecuteReader();
-            while (dr2.Read())
-            {
-                comboBox2.Items.Add(dr2[0].ToString());
-            }
-            dr2.Close();
         }
         string currStudentID = "0";
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
