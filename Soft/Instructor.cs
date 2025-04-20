@@ -36,5 +36,11 @@ namespace Soft
             UC_TakeAttendance uc = new UC_TakeAttendance();
             addUserControl(uc);
         }
+
+        private void seeAttendanceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetClassReport uc = new GetClassReport();
+            addUserControl(uc);
+        }
     }
 }

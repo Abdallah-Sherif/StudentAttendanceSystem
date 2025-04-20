@@ -24,3 +24,18 @@ D:\Source Code\SW\Soft\bin\Debug\Guna.UI2.dll
 D:\Source Code\SW\Soft\obj\Debug\Soft.Instructor.resources
 D:\Source Code\SW\Soft\obj\Debug\Soft.csproj.Up2Date
 D:\Source Code\SW\Soft\obj\Debug\Soft.InstructorUserControls.UC_TakeAttendance.resources
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\bin\Debug\Soft.exe.config
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\bin\Debug\Soft.exe
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\bin\Debug\Soft.pdb
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\bin\Debug\Guna.UI2.dll
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.csproj.AssemblyReference.cache
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.Form1.resources
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.Instructor.resources
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.InstructorUserControls.UC_TakeAttendance.resources
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.Properties.Resources.resources
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.csproj.GenerateResource.cache
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.csproj.CoreCompileInputs.cache
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.csproj.Up2Date
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.exe
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.pdb
+E:\C#\StudentAttendanceSystem\StudentAttendanceSystem\Soft\obj\Debug\Soft.InstructorUserControls.GetClassReport.resources
