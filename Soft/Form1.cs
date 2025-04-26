@@ -43,7 +43,9 @@ namespace Soft
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-
+            Admin admin = new Admin();
+            admin.Show();
+            this.Visible = false;
         }
 
         private void button2_Click(object sender, EventArgs e)

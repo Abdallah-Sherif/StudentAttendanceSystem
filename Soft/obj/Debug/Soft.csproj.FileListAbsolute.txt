@@ -24,3 +24,8 @@ D:\Source Code\SW\Soft\bin\Debug\Guna.UI2.dll
 D:\Source Code\SW\Soft\obj\Debug\Soft.Instructor.resources
 D:\Source Code\SW\Soft\obj\Debug\Soft.csproj.Up2Date
 D:\Source Code\SW\Soft\obj\Debug\Soft.InstructorUserControls.UC_TakeAttendance.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.Admin.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.AdminUserControls.UC_AddInstructor.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.AdminUserControls.UC_AddStudent.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.AdminUserControls.UC_AddCourse.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.AdminUserControls.UC_AssignInstructorToCourse.resources
