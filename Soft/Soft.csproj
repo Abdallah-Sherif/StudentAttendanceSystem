@@ -98,6 +98,12 @@
     <Compile Include="Instructor.Designer.cs">
       <DependentUpon>Instructor.cs</DependentUpon>
     </Compile>
+    <Compile Include="InstructorUserControls\GetClassReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InstructorUserControls\GetClassReport.Designer.cs">
+      <DependentUpon>GetClassReport.cs</DependentUpon>
+    </Compile>
     <Compile Include="InstructorUserControls\UC_TakeAttendance.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -126,6 +132,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Instructor.resx">
       <DependentUpon>Instructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstructorUserControls\GetClassReport.resx">
+      <DependentUpon>GetClassReport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InstructorUserControls\UC_TakeAttendance.resx">
       <DependentUpon>UC_TakeAttendance.cs</DependentUpon>
