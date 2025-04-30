@@ -54,5 +54,10 @@ namespace Soft
             instrucor.Show();
             this.Visible = false;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -53,5 +53,10 @@ namespace Soft
             UC_AssignInstructorToCourse uc = new UC_AssignInstructorToCourse();
             addUserControl(uc);
         }
+
+        private void pnlMain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
