@@ -35,7 +35,7 @@ namespace Soft
         {
             Admin admin = new Admin();
             admin.Show();
-            this.Visible = false;
+            this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -49,6 +49,13 @@ namespace Soft
         {
             Student student = new Student();
             student.Show();
+            this.Visible = false;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ReportsForm reportform = new ReportsForm();
+            reportform.Show();
             this.Visible = false;
         }
     }

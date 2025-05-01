@@ -59,5 +59,9 @@ namespace Soft
             addUserControl(uc);
         }
 
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

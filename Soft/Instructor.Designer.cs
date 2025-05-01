@@ -30,8 +30,8 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.takeAttendanceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.pnlMain = new System.Windows.Forms.Panel();
             this.seeAttendanceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pnlMain = new System.Windows.Forms.Panel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -44,44 +44,44 @@
             this.seeAttendanceToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(600, 24);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 30);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
             // takeAttendanceToolStripMenuItem
             // 
             this.takeAttendanceToolStripMenuItem.Name = "takeAttendanceToolStripMenuItem";
-            this.takeAttendanceToolStripMenuItem.Size = new System.Drawing.Size(107, 20);
+            this.takeAttendanceToolStripMenuItem.Size = new System.Drawing.Size(132, 26);
             this.takeAttendanceToolStripMenuItem.Text = "Take Attendance";
             this.takeAttendanceToolStripMenuItem.Click += new System.EventHandler(this.takeAttendanceToolStripMenuItem_Click);
-            // 
-            // pnlMain
-            // 
-            this.pnlMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pnlMain.Location = new System.Drawing.Point(0, 24);
-            this.pnlMain.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.pnlMain.Name = "pnlMain";
-            this.pnlMain.Size = new System.Drawing.Size(600, 342);
-            this.pnlMain.TabIndex = 3;
             // 
             // seeAttendanceToolStripMenuItem
             // 
             this.seeAttendanceToolStripMenuItem.Name = "seeAttendanceToolStripMenuItem";
-            this.seeAttendanceToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
+            this.seeAttendanceToolStripMenuItem.Size = new System.Drawing.Size(127, 26);
             this.seeAttendanceToolStripMenuItem.Text = "See Attendance";
             this.seeAttendanceToolStripMenuItem.Click += new System.EventHandler(this.seeAttendanceToolStripMenuItem_Click);
             // 
+            // pnlMain
+            // 
+            this.pnlMain.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlMain.Location = new System.Drawing.Point(0, 30);
+            this.pnlMain.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pnlMain.Name = "pnlMain";
+            this.pnlMain.Size = new System.Drawing.Size(800, 420);
+            this.pnlMain.TabIndex = 3;
+            // 
             // Instructor
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(600, 366);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.pnlMain);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Instructor";
             this.Text = "Instructor";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Instructor_FormClosing);

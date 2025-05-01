@@ -50,3 +50,7 @@ D:\Source Code\SW\Soft\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectMo
 D:\Source Code\SW\Soft\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
 D:\Source Code\SW\Soft\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
 D:\Source Code\SW\Soft\bin\Debug\stdole.dll
+D:\Source Code\SW\Soft\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Source Code\SW\Soft\obj\Debug\Soft.CourseStudentForm.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.GeneralReportForm.resources
+D:\Source Code\SW\Soft\obj\Debug\Soft.ReportsForm.resources
