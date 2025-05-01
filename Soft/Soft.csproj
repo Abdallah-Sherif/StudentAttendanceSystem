@@ -62,6 +62,12 @@
     <Compile Include="Admin.Designer.cs">
       <DependentUpon>Admin.cs</DependentUpon>
     </Compile>
+    <Compile Include="AdminUserControls\AssignStudentToCourse.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdminUserControls\AssignStudentToCourse.Designer.cs">
+      <DependentUpon>AssignStudentToCourse.cs</DependentUpon>
+    </Compile>
     <Compile Include="AdminUserControls\UC_AddCourse.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -112,8 +118,29 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student.Designer.cs">
+      <DependentUpon>Student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentUserControls\UC_CountAbscence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentUserControls\UC_CountAbscence.Designer.cs">
+      <DependentUpon>UC_CountAbscence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentUserControls\UC_SeeAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentUserControls\UC_SeeAttendance.Designer.cs">
+      <DependentUpon>UC_SeeAttendance.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Admin.resx">
       <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUserControls\AssignStudentToCourse.resx">
+      <DependentUpon>AssignStudentToCourse.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="AdminUserControls\UC_AddCourse.resx">
       <DependentUpon>UC_AddCourse.cs</DependentUpon>
@@ -148,6 +175,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Student.resx">
+      <DependentUpon>Student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentUserControls\UC_CountAbscence.resx">
+      <DependentUpon>UC_CountAbscence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentUserControls\UC_SeeAttendance.resx">
+      <DependentUpon>UC_SeeAttendance.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

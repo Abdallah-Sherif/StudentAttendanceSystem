@@ -53,5 +53,11 @@ namespace Soft
             UC_AssignInstructorToCourse uc = new UC_AssignInstructorToCourse();
             addUserControl(uc);
         }
+        private void assignStudentToCourseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AssignStudentToCourse uc = new AssignStudentToCourse();
+            addUserControl(uc);
+        }
+
     }
 }

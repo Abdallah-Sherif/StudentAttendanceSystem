@@ -33,16 +33,19 @@ namespace Soft.AdminUserControls
         private void button1_Click(object sender, EventArgs e)
         {
             OpenConnection();
-            OracleCommand cmd = new OracleCommand();
-            cmd.Connection = con;
-            cmd.CommandText = "AddCourses";
-            cmd.CommandType = CommandType.StoredProcedure;
-            cmd.Parameters.Add("course_name", textBox2.Text);
+            string cmd = @"Select * from courses";
+            OracleDataAdapter adapter = new OracleDataAdapter(cmd, ordb);
+            DataSet ds = new DataSet();
 
-            int r = cmd.ExecuteNonQuery();
+            adapter.Fill(ds, "courses");
+            DataRow newRow = ds.Tables[0].NewRow();
+            newRow["name"] = textBox2.Text.ToString();
+
+            ds.Tables[0].Rows.Add(newRow);
+
+            OracleCommandBuilder builder = new OracleCommandBuilder(adapter);
+            adapter.Update(ds, "courses");
             MessageBox.Show("Course Added Successfully");
-            CloseConnection();
-
             CloseConnection();
         }
     }

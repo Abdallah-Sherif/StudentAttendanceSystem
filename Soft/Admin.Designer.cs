@@ -80,6 +80,7 @@
             this.assignStudentToCourseToolStripMenuItem.Name = "assignStudentToCourseToolStripMenuItem";
             this.assignStudentToCourseToolStripMenuItem.Size = new System.Drawing.Size(190, 24);
             this.assignStudentToCourseToolStripMenuItem.Text = "Assign Student To Course";
+            this.assignStudentToCourseToolStripMenuItem.Click += new System.EventHandler(this.assignStudentToCourseToolStripMenuItem_Click);
             // 
             // assignInstructorToCourseToolStripMenuItem
             // 

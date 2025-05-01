@@ -31,16 +31,6 @@ namespace Soft
             conn.Dispose();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click_1(object sender, EventArgs e)
         {
             Admin admin = new Admin();
@@ -52,6 +42,13 @@ namespace Soft
         {
             Instructor instrucor = new Instructor();
             instrucor.Show();
+            this.Visible = false;
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            Student student = new Student();
+            student.Show();
             this.Visible = false;
         }
     }

@@ -1,6 +1,6 @@
-﻿namespace Soft.AdminUserControls
+﻿namespace Soft.StudentUserControls
 {
-    partial class UC_AssignInstructorToCourse
+    partial class UC_CountAbscence
     {
         /// <summary> 
         /// Required designer variable.
@@ -39,54 +39,50 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(213, 157);
+            this.label2.Location = new System.Drawing.Point(169, 101);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(84, 22);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Instructor";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
+            this.label2.Size = new System.Drawing.Size(72, 22);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "Student";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(213, 224);
+            this.label1.Location = new System.Drawing.Point(169, 167);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(68, 22);
-            this.label1.TabIndex = 5;
+            this.label1.TabIndex = 8;
             this.label1.Text = "Course";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(378, 159);
+            this.comboBox1.Location = new System.Drawing.Point(265, 103);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(251, 24);
-            this.comboBox1.TabIndex = 6;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.comboBox1.TabIndex = 9;
             // 
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(378, 226);
+            this.comboBox2.Location = new System.Drawing.Point(265, 169);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(251, 24);
-            this.comboBox2.TabIndex = 7;
-            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
+            this.comboBox2.TabIndex = 10;
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(298, 299);
+            this.button1.Location = new System.Drawing.Point(240, 248);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(274, 31);
-            this.button1.TabIndex = 8;
-            this.button1.Text = "Assign Instructor to Course";
+            this.button1.Size = new System.Drawing.Size(197, 31);
+            this.button1.TabIndex = 11;
+            this.button1.Text = "Count Abscence";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // UC_AssignInstructorToCourse
+            // UC_CountAbscence
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -95,9 +91,9 @@
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label2);
-            this.Name = "UC_AssignInstructorToCourse";
-            this.Size = new System.Drawing.Size(885, 522);
-            this.Load += new System.EventHandler(this.OnOpen);
+            this.Name = "UC_CountAbscence";
+            this.Size = new System.Drawing.Size(759, 474);
+            this.Load += new System.EventHandler(this.CountAbscneceLoad);
             this.ResumeLayout(false);
             this.PerformLayout();
 
