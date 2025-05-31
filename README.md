@@ -4,7 +4,7 @@
 The **Student Attendance Management System** is a web-based application designed to automate the process of tracking and managing student attendance. The system allows instructors to record attendance, administrators to manage users and courses, and students to view and request corrections to their attendance.
 
 ---
-##Table Of Content
+## Table Of Content
 - [Features](#features)
 - [Use Case Diagram](#use-case-diagram)
 - [Sequence Diagram](#sequence-diagram)
@@ -12,6 +12,7 @@ The **Student Attendance Management System** is a web-based application designed
 - [Non-Functional Requirements](#non-functional-requirements)
 - [Access Roles](#access-roles)
 - [Contributors](#contributors)
+
 ---
 ## Features
 
