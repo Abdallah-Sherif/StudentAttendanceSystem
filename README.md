@@ -1,57 +1,52 @@
 # Student Attendance Management System
 
-## 📚 Overview
+## Overview
 The **Student Attendance Management System** is a web-based application designed to automate the process of tracking and managing student attendance. The system allows instructors to record attendance, administrators to manage users and courses, and students to view and request corrections to their attendance.
 
 ---
-
-## 👥 Team Information
-- **Team ID**: 2
-- **Course**: Software Engineering
-- **TA**: Akram Tarek
-
-**Team Members**:
-- مد حسين توفيق محمود
-- محمد تسنيم محمد احمد
-- بسملة طارق كمال الباجوري
-- مروان حسام احمد عبدالل
-- عبدالل شريف سمير محمود
-- مريم ابراهيم حمدان حامد
-- زيد هاني محمد صلاح الدين
-
+##Table Of Content
+- [Features](#features)
+- [Use Case Diagram](#use-case-diagram)
+- [Sequence Diagram](#sequence-diagram)
+- [Functional Requirements](#functional-requirements)
+- [Non-Functional Requirements](#non-functional-requirements)
+- [Access Roles](#access-roles)
+- [Contributors](#contributors)
 ---
+## Features
 
-## 🛠️ Features
-
-### 👨‍🏫 Instructor
+### Instructor
 - Record student attendance
 - Generate attendance reports
 - Send notification emails to frequently absent students
 - Manage students with high absence rates
 
-### 🧑‍💼 Administrator
+### Administrator
 - Add/Remove students from courses
 - Modify student data
 - Assign/Remove instructors from courses
 - View attendance reports
 
-### 👩‍🎓 Student
+### Student
 - View personal attendance records
 - Submit attendance correction requests
 
 ---
+## Use Case Diagram
 
-## 📋 Use Case Diagram
-![Use Case Diagram](./Screenshot%202025-05-31%20at%2010.49.24%20PM.png)
+![Use Case Diagram](https://github.com/user-attachments/assets/bd931536-2f51-4c1d-baf2-68458a1f9989)
 
----
-
-## 🔄 Sequence Diagram
-![Sequence Diagram](./Screenshot%202025-05-31%20at%2010.49.34%20PM.png)
 
 ---
 
-## 📌 Functional Requirements (Summary)
+## Sequence Diagram
+
+![Sequence Diagram](https://github.com/user-attachments/assets/d103100f-a59a-4e49-9385-067ccb5f2d4a)
+
+
+---
+
+## Functional Requirements
 
 ### Instructor
 - **Record Attendance**: Mark students present/absent.
@@ -69,7 +64,7 @@ The **Student Attendance Management System** is a web-based application designed
 
 ---
 
-## ⚙️ Non-Functional Requirements
+## Non-Functional Requirements
 - **Usability**: Intuitive UI
 - **Performance**: < 2s per operation
 - **Reliability**: 99.9% uptime
@@ -80,15 +75,7 @@ The **Student Attendance Management System** is a web-based application designed
 
 ---
 
-## 💻 Technologies Used
-- Frontend: (To be filled by devs, e.g., React.js)
-- Backend: (e.g., Node.js, Django)
-- Database: (e.g., MySQL, PostgreSQL)
-- Email Integration: SMTP / API
-
----
-
-## 🔐 Access Roles
+## Access Roles
 | Role          | Permissions                                                                 |
 |---------------|------------------------------------------------------------------------------|
 | Student       | View attendance, request corrections                                        |
@@ -96,23 +83,13 @@ The **Student Attendance Management System** is a web-based application designed
 | Administrator | Full control: manage users, courses, assign instructors, view reports       |
 
 ---
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-attendance-system.git
-   ```
-2. Setup database & environment:
-   ```bash
-   npm install / pip install -r requirements.txt
-   ```
-3. Run the server:
-   ```bash
-   npm start / python manage.py runserver
-   ```
-4. Access the platform at `localhost:3000` or `localhost:8000`.
-
----
-
-## 📄 License
-This project is academic and developed for educational purposes.
+## Contributors
+|                   Name                    |    Github Link   |
+| :---------------------------------------: | :--------: |
+|      Zaid Hany Mohamed Salah El Deen      | https://github.com/ElAlbany |
+| Tasneem Mohamed Ahmed Mohamed | https://github.com/Tasneem357Mohamed |
+|      Basmala Tarek kamal Khalil Elbagoury     | https://github.com/Bsmalatarek |
+|          Mariam Ibrahim Hamdan Hamed        |  |
+|           Abdallah Sherif Samir Mahmoud          | https://github.com/Abdallah-Sherif |
+|       Marwan Hossam Ahmad Abdullah        | https://github.com/marwanhossam00 |
+| Mahmoud Mohamed Hussien Tawfek            |  https://github.com/mahmouddmohammed |
